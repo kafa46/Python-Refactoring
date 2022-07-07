@@ -42,7 +42,7 @@
     - `__name__`과 `main` 함수를 적용한 최종 리팩토링 결과는 [pycon_refactor_after_final.py](./pycon_refactor_after_final.py) 입니다.
 
 
-## 관련 유튜브 동영상
+## 강의 동영상 (유튜브)
 주제별로 유튜브를 시청하려면 관심있는 아래 목록 중에서 관심있는 제목을 클릭하세요.
 1. [[이론 1] 리팩토링이 뭔가요?](https://youtu.be/8DXPBG-242o)
 2. [[이론 2] Bad Smells 그리고 리팩토링](https://youtu.be/XMM9BePQ6ao)
