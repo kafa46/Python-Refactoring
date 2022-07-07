@@ -52,6 +52,12 @@
 6. [[리팩토링 실습 2] 중첩 반복문 단순화, 불필요 조건문 제거, 람다 함수를 적용한 리팩토링](https://www.youtube.com/watch?v=CyGj5Qn-wOc)
 7. [[리팩토링 실습 3] Comprehension, unpacking, zip을 이용한 리팩토링](https://www.youtube.com/watch?v=_FpkHS5NwQ4)
 
+## 강의 슬라이드
+- 이론 강의 슬라이드: [Python_Refactoring_theory.pdf](./01.%20Python_Refactoring_theory.pdf)
+- 실습 강의 슬라이드: [Python_Refactoring_with_code_example.pdf](./02.%20Python_Refactoring_with_code_example.pdf)
+
+  `[참고]` MS .ppt 파일은 디바이스 또는 OS에 따라 안 열리거나 깨질 확률이 있어서 .pdf 양식으로 제공합니다.
+
 ## 참고 자료
 - 포켓몬 크롤러 코딩: [Syed S. Nazrul 블로그](https://towardsdatascience.com/web-scraping-html-tables-with-python-c9baba21059)
 - PyCon 2020 Talks: [Beautiful Python Refactoring](https://us.pycon.org/2020/schedule/presentation/162/), 유튜브 링크 [바로가기](https://www.youtube.com/watch?v=KTIl1MugsSY)
