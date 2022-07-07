@@ -36,14 +36,14 @@
 
 - 리팩토링 실습
     - 리팩토링을 수행하는 기법은 다양하기 때문에 모든 것을 다룰 수 없습니다. 파이썬 관련 내용 중 일부를 실습하도록 합니다.
-    - 실습코드는 [PyCon 2020](https://us.pycon.org/2020/about/) ```Talks```에서 발표된 Conor Hoekstra의 [유튜브 튜토리얼](https://www.youtube.com/watch?v=KTIl1MugsSY)을 참고하여 작성하였습니다.
+    - 실습코드는 [PyCon 2020](https://us.pycon.org/2020/about/) ```Talks```에서 발표된 [Conor Hoekstra이 Talk 세션](https://us.pycon.org/2020/schedule/presentation/162/)에서 발표한 [유튜브 튜토리얼](https://www.youtube.com/watch?v=KTIl1MugsSY)을 참고하여 작성하였습니다.
     - 리팩토링 과정을 포함한 코드는 [pycon_refactor_middle.py](./pycon_refactor_middle.py) 입니다.
     - 리팩토링 결과 코드는 [pycon_refactor_after.py](./pycon_refactor_after.py) 입니다.
     - `__name__`과 `main` 함수를 적용한 최종 리팩토링 결과는 [pycon_refactor_after_final.py](./pycon_refactor_after_final.py) 입니다.
 
 
 ## 관련 유튜브 동영상
-해당 유튜브를 시청하려면 관심있는 아래 목록 중에서 관심있는 제목을 클릭하세요.
+주제별로 유튜브를 시청하려면 관심있는 아래 목록 중에서 관심있는 제목을 클릭하세요.
 1. [[이론 1] 리팩토링이 뭔가요?](https://youtu.be/8DXPBG-242o)
 2. [[이론 2] Bad Smells 그리고 리팩토링](https://youtu.be/XMM9BePQ6ao)
 3. [[코드준비 1] Toy Project - 포켓몬 크롤러 코딩 1](https://www.youtube.com/watch?v=7VRAY4qRqrQ)
@@ -52,4 +52,7 @@
 6. [[리팩토링 실습 2] 중첩 반복문 단순화, 불필요 조건문 제거, 람다 함수를 적용한 리팩토링](https://www.youtube.com/watch?v=CyGj5Qn-wOc)
 7. [[리팩토링 실습 3] Comprehension, unpacking, zip을 이용한 리팩토링](https://www.youtube.com/watch?v=_FpkHS5NwQ4)
 
-##
+## 참고 자료
+- 포켓몬 크롤러 코딩: [Syed S. Nazrul 블로그](https://towardsdatascience.com/web-scraping-html-tables-with-python-c9baba21059)
+- PyCon 2020 Talks: [Beautiful Python Refactoring](https://us.pycon.org/2020/schedule/presentation/162/), 유튜브 링크 [바로가기](https://www.youtube.com/watch?v=KTIl1MugsSY)
+- 포켓몬 정보: 포켓몬 인터넷 상세정보 $\to$ [웹페이지](http://pokemondb.net/pokedex/all)
